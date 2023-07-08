@@ -185,6 +185,8 @@ const MockForm = () => {
           />
         </div>
       </div>
+      {
+        /* disble this feat.
       <div class="md:flex md:items-center mb-6">
         <div class="md:w-1/3">
           <label
@@ -213,7 +215,8 @@ const MockForm = () => {
             </svg>
           </button>
         </div>
-      </div>
+      </div> */
+      }
     </div>
   );
 };
