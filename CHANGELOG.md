@@ -1,3 +1,3 @@
 # Event Link Generator | Ggl Clndr
 
-### Usage
+## [Initial Release] - 2023-07-08
